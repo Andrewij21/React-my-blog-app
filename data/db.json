@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "author": "John",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt harum rerum perferendis at neque voluptates incidunt voluptatem quia impedit atque repellendus earum, eligendi recusandae sunt delectus officiis omnis. Pariatur magni, ea fuga hic quasi velit totam necessitatibus accusamus iure! Dolore?",
+      "id": 1
+    },
+    {
+      "title": "tes2",
+      "body": "tes",
+      "author": "andre",
+      "id": 3
+    },
+    {
+      "title": "tess",
+      "body": "asas",
+      "author": "tom",
+      "id": 4
+    }
+  ]
+}
